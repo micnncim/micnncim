@@ -1,0 +1,15 @@
+name: Wakatime
+
+on:
+  workflow_dispatch:
+  schedule:
+    # - cron: '0 15 * * *' # 12:00 am (JST)
+    - cron: '50 8 * * *' # 8:50 am (JST)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@0.1.3
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
