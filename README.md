@@ -8,3 +8,8 @@
 <a href="https://github.com/micnncim">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micnncim" />
 </a>
+
+## 📊 Weekly Development Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
