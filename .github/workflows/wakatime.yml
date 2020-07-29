@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # - cron: '0 15 * * *' # 12:00 am (JST)
-    - cron: '50 8 * * *' # 8:50 am (JST)
+    - cron: '51 8 * * *' # 5:51 pm (JST)
 
 jobs:
   update-readme:
