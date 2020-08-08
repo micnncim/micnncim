@@ -1,10 +1,13 @@
 name: Wakatime
 
+# on:
+#   # workflow_dispatch:
+#   schedule:
+#     - cron: '0 15 * * *' # 12:00 am (JST)
+#     - cron: '11 14 * * *' # 11:11 pm (JST)
 on:
-  # workflow_dispatch:
   schedule:
-    - cron: '0 15 * * *' # 12:00 am (JST)
-    - cron: '11 14 * * *' # 11:11 pm (JST)
+    - cron: '*/15 * * * *'
 
 jobs:
   update-readme:
