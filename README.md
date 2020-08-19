@@ -6,7 +6,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=micnncim&show_icons=true" />
 </a>
 <a href="https://github.com/micnncim">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micnncim" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micnncim&layout=compact" />
 </a>
 
 ## 📊 Weekly Development Stats
