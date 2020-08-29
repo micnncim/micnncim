@@ -8,15 +8,3 @@
 <a href="https://github.com/micnncim">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micnncim&layout=compact" />
 </a>
-
-## 📊 Weekly Development Stats
-
-<!--START_SECTION:waka-->
-```text
-Bash       4 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   33.90 % 
-YAML       4 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   32.64 % 
-Go         1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Markdown   1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Other      46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-```
-<!--END_SECTION:waka-->
