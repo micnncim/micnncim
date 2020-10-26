@@ -4,4 +4,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=micnncim&show_icons=true&count_private=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micnncim&layout=compact" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=micnncim&v=2" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=micnncim&hide_progress=true&v=2" />
