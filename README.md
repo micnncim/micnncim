@@ -18,9 +18,9 @@
 
 - [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (today) - 🏷️ GitHub Action to remove labels
 - [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) (today) - GitHub Action to sync GitHub labels in the declarative way
+- [micnncim/bash-scripts](https://github.com/micnncim/bash-scripts) (today) - Collection of miscellaneous Bash scripts
 - [micnncim/kubetools](https://github.com/micnncim/kubetools) (today) - Collection of miscellaneous tools for Kubernetes
 - [actions-ecosystem/action-regex-match](https://github.com/actions-ecosystem/action-regex-match) (1 day ago) - 🔍 GitHub Action to do regex matching
-- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (2 weeks ago) - kubectl plugin that deletes unused Kubernetes resources
 
 #### 👪  Recent Followers
 
