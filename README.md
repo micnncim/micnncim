@@ -9,7 +9,7 @@
 #### 🍎 Recent Projects
 
 - [micnncim/spincue](https://github.com/micnncim/spincue) - CUE implementation of Spinnaker pipelines
-- [micnncim/slackctl](https://github.com/micnncim/slackctl)
+- [micnncim/slackctl](https://github.com/micnncim/slackctl) - Slack command line tool
 - [micnncim/gh-commands](https://github.com/micnncim/gh-commands)
 - [micnncim/github-lab-public](https://github.com/micnncim/github-lab-public) - GitHub laboratory environment (public)
 - [micnncim/kleat-format](https://github.com/micnncim/kleat-format) - CLI to format halconfig for Kleat
@@ -21,3 +21,11 @@
 - [actions-ecosystem/action-regex-match](https://github.com/actions-ecosystem/action-regex-match) (1 day ago) - 🔍 GitHub Action to do regex matching
 - [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (2 weeks ago) - kubectl plugin that deletes unused Kubernetes resources
 - [micnncim/kubetools](https://github.com/micnncim/kubetools) (1 month ago) - Collection of miscellaneous tools for Kubernetes
+
+#### 👪  Recent Followers
+
+- [yyuu](https://github.com/yyuu)
+- [reevesPAC](https://github.com/reevesPAC)
+- [davetapley](https://github.com/davetapley)
+- [wafuwafu13](https://github.com/wafuwafu13)
+- [Papillon6814](https://github.com/Papillon6814)
