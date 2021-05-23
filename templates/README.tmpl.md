@@ -6,17 +6,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=micnncim&show_icons=true&count_private=true" />
 </p>
 
-#### 🍎 Recent Projects
+#### 🍎  Recent Projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{if ne (len .Description) 0}} - {{.Description}}{{end}}
 {{- end}}
 
-#### 🌱 Recent Contributions
+#### 🌱  Recent Contributions
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}}){{if ne (len .Repo.Description) 0}} - {{.Repo.Description}}{{end}}
 {{- end}}
 
-### 👪 These awesome people sponsor me (thank you!)
+### 👪   Recent Followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
