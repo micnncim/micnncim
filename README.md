@@ -10,7 +10,7 @@
 
 - [micnncim/spincue](https://github.com/micnncim/spincue) - CUE implementation of Spinnaker pipelines
 - [micnncim/slackctl](https://github.com/micnncim/slackctl) - Slack command line tool
-- [micnncim/gh-commands](https://github.com/micnncim/gh-commands)
+- [micnncim/gh-commands](https://github.com/micnncim/gh-commands) - Collection of gh custom subcommands
 - [micnncim/github-lab-public](https://github.com/micnncim/github-lab-public) - GitHub laboratory environment (public)
 - [micnncim/kleat-format](https://github.com/micnncim/kleat-format) - CLI to format halconfig for Kleat
 
@@ -18,9 +18,9 @@
 
 - [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (today) - 🏷️ GitHub Action to remove labels
 - [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) (today) - GitHub Action to sync GitHub labels in the declarative way
+- [micnncim/kubetools](https://github.com/micnncim/kubetools) (today) - Collection of miscellaneous tools for Kubernetes
 - [actions-ecosystem/action-regex-match](https://github.com/actions-ecosystem/action-regex-match) (1 day ago) - 🔍 GitHub Action to do regex matching
 - [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (2 weeks ago) - kubectl plugin that deletes unused Kubernetes resources
-- [micnncim/kubetools](https://github.com/micnncim/kubetools) (1 month ago) - Collection of miscellaneous tools for Kubernetes
 
 #### 👪  Recent Followers
 
