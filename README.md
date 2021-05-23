@@ -2,8 +2,22 @@
 [![Twitter](https://img.shields.io/badge/Twitter-0?style=flat-square&logo=twitter&color=1DA1F2&logoColor=white)](https://twitter.com/micnncim)
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat-square&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/micnncim)
 
-Email: `bWljbm5jaW1AZ21haWwuY29t`
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=micnncim&show_icons=true&count_private=true" />
 </p>
+
+#### 🍎 Recent Projects
+
+- [micnncim/spincue](https://github.com/micnncim/spincue) - CUE implementation of Spinnaker pipelines
+- [micnncim/slackctl](https://github.com/micnncim/slackctl)
+- [micnncim/gh-commands](https://github.com/micnncim/gh-commands)
+- [micnncim/github-lab-public](https://github.com/micnncim/github-lab-public) - GitHub laboratory environment (public)
+- [micnncim/kleat-format](https://github.com/micnncim/kleat-format) - CLI to format halconfig for Kleat
+
+#### 🌱 Recent Contributions
+
+- [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (today) - 🏷️ GitHub Action to remove labels
+- [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) (today) - GitHub Action to sync GitHub labels in the declarative way
+- [actions-ecosystem/action-regex-match](https://github.com/actions-ecosystem/action-regex-match) (1 day ago) - 🔍 GitHub Action to do regex matching
+- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (2 weeks ago) - kubectl plugin that deletes unused Kubernetes resources
+- [micnncim/kubetools](https://github.com/micnncim/kubetools) (1 month ago) - Collection of miscellaneous tools for Kubernetes
