@@ -16,10 +16,10 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/bash-scripts](https://github.com/micnncim/bash-scripts) (6 days ago) - Collection of miscellaneous Bash scripts
-- [micnncim/kubetools](https://github.com/micnncim/kubetools) (6 days ago) - Collection of miscellaneous tools for Kubernetes
-- [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) (6 days ago) - GitHub Action to sync GitHub labels in the declarative way
-- [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (6 days ago) - 🏷️ GitHub Action to remove labels
+- [micnncim/bash-scripts](https://github.com/micnncim/bash-scripts) (1 week ago) - Collection of miscellaneous Bash scripts
+- [micnncim/kubetools](https://github.com/micnncim/kubetools) (1 week ago) - Collection of miscellaneous tools for Kubernetes
+- [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) (1 week ago) - GitHub Action to sync GitHub labels in the declarative way
+- [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (1 week ago) - 🏷️ GitHub Action to remove labels
 - [actions-ecosystem/action-regex-match](https://github.com/actions-ecosystem/action-regex-match) (1 week ago) - 🔍 GitHub Action to do regex matching
 
 #### 👪  Recent Followers
