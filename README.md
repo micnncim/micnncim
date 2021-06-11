@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [korenyoni](https://github.com/korenyoni)
 - [memepolo](https://github.com/memepolo)
 - [ngoclamtran](https://github.com/ngoclamtran)
 - [yyuu](https://github.com/yyuu)
 - [reevesPAC](https://github.com/reevesPAC)
-- [davetapley](https://github.com/davetapley)
