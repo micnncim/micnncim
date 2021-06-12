@@ -20,7 +20,7 @@
 - [micnncim/bash-scripts](https://github.com/micnncim/bash-scripts) (2 weeks ago) - Collection of miscellaneous Bash scripts
 - [micnncim/kubetools](https://github.com/micnncim/kubetools) (2 weeks ago) - Collection of miscellaneous tools for Kubernetes
 - [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) (2 weeks ago) - GitHub Action to sync GitHub labels in the declarative way
-- [actions-ecosystem/action-regex-match](https://github.com/actions-ecosystem/action-regex-match) (2 weeks ago) - 🔍 GitHub Action to do regex matching
+- [actions-ecosystem/action-regex-match](https://github.com/actions-ecosystem/action-regex-match) (3 weeks ago) - 🔍 GitHub Action to do regex matching
 
 #### 👪  Recent Followers
 
