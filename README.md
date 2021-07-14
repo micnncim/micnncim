@@ -25,7 +25,7 @@
 #### 👪  Recent Followers
 
 - [UsernameUsernameUsern](https://github.com/UsernameUsernameUsern)
-- [JustNikhill](https://github.com/JustNikhill)
 - [Novusvetus](https://github.com/Novusvetus)
 - [Kakise](https://github.com/Kakise)
 - [mrcrypster](https://github.com/mrcrypster)
+- [mrarif6585](https://github.com/mrarif6585)
