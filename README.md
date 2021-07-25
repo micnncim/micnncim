@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [Novusvetus](https://github.com/Novusvetus)
 - [Abdulkadiri223](https://github.com/Abdulkadiri223)
 - [Eandalf](https://github.com/Eandalf)
-- [Novusvetus](https://github.com/Novusvetus)
 - [Kakise](https://github.com/Kakise)
 - [mrcrypster](https://github.com/mrcrypster)
