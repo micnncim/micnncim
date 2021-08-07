@@ -16,11 +16,11 @@
 
 #### 🌱 Recent Contributions
 
-- [actions-ecosystem/action-size](https://github.com/actions-ecosystem/action-size) (1 day ago) - 📏 GitHub Action to determine a label to be added based on PR&#39;s size
-- [actions-ecosystem/action-push-tag](https://github.com/actions-ecosystem/action-push-tag) (1 day ago) - 🔖 GitHub Action to push a Git tag
-- [actions-ecosystem/action-bump-semver](https://github.com/actions-ecosystem/action-bump-semver) (1 day ago) - ⏫ GitHub Action to bump the semver version up
-- [actions-ecosystem/action-release-label](https://github.com/actions-ecosystem/action-release-label) (1 day ago) - 🏷️ GitHub Action to output a semver update level from a pull request release label
-- [actions-ecosystem/action-get-merged-pull-request](https://github.com/actions-ecosystem/action-get-merged-pull-request) (1 day ago) - 🎣 GitHub Action to get the pull request merged with the base branch
+- [actions-ecosystem/action-size](https://github.com/actions-ecosystem/action-size) (2 days ago) - 📏 GitHub Action to determine a label to be added based on PR&#39;s size
+- [actions-ecosystem/action-push-tag](https://github.com/actions-ecosystem/action-push-tag) (2 days ago) - 🔖 GitHub Action to push a Git tag
+- [actions-ecosystem/action-bump-semver](https://github.com/actions-ecosystem/action-bump-semver) (2 days ago) - ⏫ GitHub Action to bump the semver version up
+- [actions-ecosystem/action-release-label](https://github.com/actions-ecosystem/action-release-label) (2 days ago) - 🏷️ GitHub Action to output a semver update level from a pull request release label
+- [actions-ecosystem/action-get-merged-pull-request](https://github.com/actions-ecosystem/action-get-merged-pull-request) (2 days ago) - 🎣 GitHub Action to get the pull request merged with the base branch
 
 #### 👪  Recent Followers
 
