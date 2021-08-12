@@ -25,7 +25,7 @@
 #### 👪  Recent Followers
 
 - [runtakun](https://github.com/runtakun)
-- [Novusvetus](https://github.com/Novusvetus)
 - [Abdulkadiri223](https://github.com/Abdulkadiri223)
 - [Eandalf](https://github.com/Eandalf)
 - [Kakise](https://github.com/Kakise)
+- [mrcrypster](https://github.com/mrcrypster)
