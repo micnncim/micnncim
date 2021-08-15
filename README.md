@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (1 day ago) - Kubernetes Operator for Cloud Spanner autoscaling
+- [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (2 days ago) - Kubernetes Operator for Cloud Spanner autoscaling
 - [actions-ecosystem/action-push-tag](https://github.com/actions-ecosystem/action-push-tag) (1 week ago) - 🔖 GitHub Action to push a Git tag
 - [actions-ecosystem/action-get-merged-pull-request](https://github.com/actions-ecosystem/action-get-merged-pull-request) (1 week ago) - 🎣 GitHub Action to get the pull request merged with the base branch
 - [actions-ecosystem/action-add-labels](https://github.com/actions-ecosystem/action-add-labels) (1 week ago) - 🏷️ GitHub Action to add labels
@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [esin](https://github.com/esin)
+- [AlvaroIsrael](https://github.com/AlvaroIsrael)
 - [runtakun](https://github.com/runtakun)
 - [Abdulkadiri223](https://github.com/Abdulkadiri223)
 - [Eandalf](https://github.com/Eandalf)
-- [Kakise](https://github.com/Kakise)
-- [mrcrypster](https://github.com/mrcrypster)
