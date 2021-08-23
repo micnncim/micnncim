@@ -16,11 +16,11 @@
 
 #### 🌱 Recent Contributions
 
+- [mercari/hcledit](https://github.com/mercari/hcledit) (3 days ago) - Go package to edit HCL configuration
 - [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (1 week ago) - Kubernetes Operator for Cloud Spanner autoscaling
-- [actions-ecosystem/action-push-tag](https://github.com/actions-ecosystem/action-push-tag) (2 weeks ago) - 🔖 GitHub Action to push a Git tag
-- [actions-ecosystem/action-get-merged-pull-request](https://github.com/actions-ecosystem/action-get-merged-pull-request) (2 weeks ago) - 🎣 GitHub Action to get the pull request merged with the base branch
-- [actions-ecosystem/action-add-labels](https://github.com/actions-ecosystem/action-add-labels) (2 weeks ago) - 🏷️ GitHub Action to add labels
+- [actions-ecosystem/action-create-comment](https://github.com/actions-ecosystem/action-create-comment) (2 weeks ago) - 💬 GitHub Action to create a comment
 - [actions-ecosystem/action-size](https://github.com/actions-ecosystem/action-size) (2 weeks ago) - 📏 GitHub Action to determine a label to be added based on PR&#39;s size
+- [actions-ecosystem/action-bump-semver](https://github.com/actions-ecosystem/action-bump-semver) (2 weeks ago) - ⏫ GitHub Action to bump the semver version up
 
 #### 👪  Recent Followers
 
