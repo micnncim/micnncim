@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [asawo](https://github.com/asawo)
 - [esin](https://github.com/esin)
 - [AlvaroIsrael](https://github.com/AlvaroIsrael)
 - [runtakun](https://github.com/runtakun)
 - [Abdulkadiri223](https://github.com/Abdulkadiri223)
-- [Eandalf](https://github.com/Eandalf)
