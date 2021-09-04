@@ -18,9 +18,9 @@
 
 - [mercari/hcledit](https://github.com/mercari/hcledit) (1 week ago) - Go package to edit HCL configuration
 - [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (3 weeks ago) - Kubernetes Operator for Cloud Spanner autoscaling
-- [actions-ecosystem/action-create-comment](https://github.com/actions-ecosystem/action-create-comment) (4 weeks ago) - 💬 GitHub Action to create a comment
-- [actions-ecosystem/action-size](https://github.com/actions-ecosystem/action-size) (4 weeks ago) - 📏 GitHub Action to determine a label to be added based on PR&#39;s size
-- [actions-ecosystem/action-bump-semver](https://github.com/actions-ecosystem/action-bump-semver) (4 weeks ago) - ⏫ GitHub Action to bump the semver version up
+- [actions-ecosystem/action-create-comment](https://github.com/actions-ecosystem/action-create-comment) (1 month ago) - 💬 GitHub Action to create a comment
+- [actions-ecosystem/action-size](https://github.com/actions-ecosystem/action-size) (1 month ago) - 📏 GitHub Action to determine a label to be added based on PR&#39;s size
+- [actions-ecosystem/action-bump-semver](https://github.com/actions-ecosystem/action-bump-semver) (1 month ago) - ⏫ GitHub Action to bump the semver version up
 
 #### 👪  Recent Followers
 
