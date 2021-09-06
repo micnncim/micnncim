@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
-- [kylesu2738](https://github.com/kylesu2738)
 - [asawo](https://github.com/asawo)
 - [esin](https://github.com/esin)
 - [AlvaroIsrael](https://github.com/AlvaroIsrael)
 - [runtakun](https://github.com/runtakun)
+- [Abdulkadiri223](https://github.com/Abdulkadiri223)
