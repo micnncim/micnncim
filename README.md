@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [mercari/hcledit](https://github.com/mercari/hcledit) (2 weeks ago) - Go package to edit HCL configuration
+- [mercari/hcledit](https://github.com/mercari/hcledit) (3 weeks ago) - Go package to edit HCL configuration
 - [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (1 month ago) - Kubernetes Operator for Cloud Spanner autoscaling
 - [actions-ecosystem/action-bump-semver](https://github.com/actions-ecosystem/action-bump-semver) (1 month ago) - ⏫ GitHub Action to bump the semver version up
 - [actions-ecosystem/action-release-label](https://github.com/actions-ecosystem/action-release-label) (1 month ago) - 🏷️ GitHub Action to output a semver update level from a pull request release label
