@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [mercari/hcledit](https://github.com/mercari/hcledit) (4 weeks ago) - Go package to edit HCL configuration
+- [mercari/hcledit](https://github.com/mercari/hcledit) (1 month ago) - Go package to edit HCL configuration
 - [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (1 month ago) - Kubernetes Operator for Cloud Spanner autoscaling
 - [actions-ecosystem/action-size](https://github.com/actions-ecosystem/action-size) (1 month ago) - 📏 GitHub Action to determine a label to be added based on PR&#39;s size
 - [actions-ecosystem/action-add-labels](https://github.com/actions-ecosystem/action-add-labels) (1 month ago) - 🏷️ GitHub Action to add labels
