@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/gh-project](https://github.com/micnncim/gh-project) (today) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
+- [micnncim/gh-project](https://github.com/micnncim/gh-project) (1 day ago) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
 - [mercari/hcledit](https://github.com/mercari/hcledit) (1 month ago) - Go package to edit HCL configuration
 - [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (1 month ago) - Kubernetes Operator for Cloud Spanner autoscaling
 - [actions-ecosystem/action-get-latest-tag](https://github.com/actions-ecosystem/action-get-latest-tag) (1 month ago) - ✨ GitHub Action to get a latest Git tag
