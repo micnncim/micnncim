@@ -19,7 +19,7 @@
 - [micnncim/gh-project](https://github.com/micnncim/gh-project) (2 weeks ago) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
 - [mercari/hcledit](https://github.com/mercari/hcledit) (1 month ago) - Go package to edit HCL configuration
 - [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (2 months ago) - Kubernetes Operator for Cloud Spanner autoscaling
-- [actions-ecosystem/action-bump-semver](https://github.com/actions-ecosystem/action-bump-semver) (2 months ago) - ⏫ GitHub Action to bump the semver version up
+- [actions-ecosystem/action-push-tag](https://github.com/actions-ecosystem/action-push-tag) (2 months ago) - 🔖 GitHub Action to push a Git tag
 - [actions-ecosystem/action-add-assignees](https://github.com/actions-ecosystem/action-add-assignees) (2 months ago) - 👉 GitHub Action to add assignees
 
 #### 👪  Recent Followers
