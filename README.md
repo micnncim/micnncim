@@ -16,10 +16,10 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (today) - kubectl plugin that deletes unused Kubernetes resources
-- [mercari/hcledit](https://github.com/mercari/hcledit) (2 weeks ago) - Go package to edit HCL configuration
+- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (1 day ago) - kubectl plugin that deletes unused Kubernetes resources
+- [mercari/hcledit](https://github.com/mercari/hcledit) (3 weeks ago) - Go package to edit HCL configuration
 - [micnncim/gh-project](https://github.com/micnncim/gh-project) (1 month ago) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
-- [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (2 months ago) - Kubernetes Operator for Cloud Spanner autoscaling
+- [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (3 months ago) - Kubernetes Operator for Cloud Spanner autoscaling
 - [actions-ecosystem/action-get-merged-pull-request](https://github.com/actions-ecosystem/action-get-merged-pull-request) (3 months ago) - 🎣 GitHub Action to get the pull request merged with the base branch
 
 #### 👪  Recent Followers
