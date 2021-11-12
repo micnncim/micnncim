@@ -8,19 +8,19 @@
 
 #### 🍎 Recent Projects
 
+- [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) - A Raycast Extension for GoLinks
 - [micnncim/gh-project](https://github.com/micnncim/gh-project) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
 - [micnncim/spincue](https://github.com/micnncim/spincue) - CUE implementation of Spinnaker pipelines
 - [micnncim/slackctl](https://github.com/micnncim/slackctl) - Slack command line tool
 - [micnncim/gh-commands](https://github.com/micnncim/gh-commands) - Collection of gh custom subcommands
-- [micnncim/github-lab-public](https://github.com/micnncim/github-lab-public) - GitHub laboratory environment (public)
 
 #### 🌱 Recent Contributions
 
+- [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) (today) - A Raycast Extension for GoLinks
 - [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (2 days ago) - kubectl plugin that deletes unused Kubernetes resources
 - [mercari/hcledit](https://github.com/mercari/hcledit) (3 weeks ago) - Go package to edit HCL configuration
 - [micnncim/gh-project](https://github.com/micnncim/gh-project) (1 month ago) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
 - [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (3 months ago) - Kubernetes Operator for Cloud Spanner autoscaling
-- [actions-ecosystem/action-get-merged-pull-request](https://github.com/actions-ecosystem/action-get-merged-pull-request) (3 months ago) - 🎣 GitHub Action to get the pull request merged with the base branch
 
 #### 👪  Recent Followers
 
