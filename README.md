@@ -16,11 +16,11 @@
 
 #### 🌱 Recent Contributions
 
+- [spinnaker/spin](https://github.com/spinnaker/spin) (today) - Spinnaker CLI
 - [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) (today) - A Raycast Extension for GoLinks
 - [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (2 days ago) - kubectl plugin that deletes unused Kubernetes resources
 - [mercari/hcledit](https://github.com/mercari/hcledit) (3 weeks ago) - Go package to edit HCL configuration
 - [micnncim/gh-project](https://github.com/micnncim/gh-project) (1 month ago) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
-- [mercari/spanner-autoscaler](https://github.com/mercari/spanner-autoscaler) (3 months ago) - Kubernetes Operator for Cloud Spanner autoscaling
 
 #### 👪  Recent Followers
 
