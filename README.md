@@ -16,9 +16,9 @@
 
 #### 🌱 Recent Contributions
 
-- [spinnaker/spin](https://github.com/spinnaker/spin) (1 day ago) - Spinnaker CLI
-- [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) (1 day ago) - A Raycast Extension for GoLinks
-- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (4 days ago) - kubectl plugin that deletes unused Kubernetes resources
+- [spinnaker/spin](https://github.com/spinnaker/spin) (2 days ago) - Spinnaker CLI
+- [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) (2 days ago) - A Raycast Extension for GoLinks
+- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (5 days ago) - kubectl plugin that deletes unused Kubernetes resources
 - [mercari/hcledit](https://github.com/mercari/hcledit) (3 weeks ago) - Go package to edit HCL configuration
 - [micnncim/gh-project](https://github.com/micnncim/gh-project) (1 month ago) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
 
