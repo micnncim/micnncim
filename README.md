@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
-- [robiot](https://github.com/robiot)
 - [Hobbit71](https://github.com/Hobbit71)
 - [limpid-kzonix](https://github.com/limpid-kzonix)
 - [matsubara0507](https://github.com/matsubara0507)
 - [deshi55](https://github.com/deshi55)
+- [asawo](https://github.com/asawo)
