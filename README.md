@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [AviC75](https://github.com/AviC75)
 - [Bibianoo](https://github.com/Bibianoo)
 - [rustycl0ck](https://github.com/rustycl0ck)
 - [danishprakash](https://github.com/danishprakash)
 - [Hobbit71](https://github.com/Hobbit71)
-- [limpid-kzonix](https://github.com/limpid-kzonix)
