@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [vinhht95](https://github.com/vinhht95)
 - [tranngoclam](https://github.com/tranngoclam)
 - [porozhnyy](https://github.com/porozhnyy)
 - [Babidiii](https://github.com/Babidiii)
 - [RXWatcher](https://github.com/RXWatcher)
-- [posquit0](https://github.com/posquit0)
