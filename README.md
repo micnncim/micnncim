@@ -20,7 +20,7 @@
 - [spinnaker/spin](https://github.com/spinnaker/spin) (2 months ago) - Spinnaker CLI
 - [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (2 months ago) - kubectl plugin that deletes unused Kubernetes resources
 - [mercari/hcledit](https://github.com/mercari/hcledit) (3 months ago) - Go package to edit HCL configuration
-- [micnncim/gh-project](https://github.com/micnncim/gh-project) (3 months ago) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
+- [micnncim/gh-project](https://github.com/micnncim/gh-project) (4 months ago) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
 
 #### 👪  Recent Followers
 
