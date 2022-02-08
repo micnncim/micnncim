@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [ikasumi](https://github.com/ikasumi)
 - [chaosaffe](https://github.com/chaosaffe)
 - [Pranav016](https://github.com/Pranav016)
 - [ianchen06](https://github.com/ianchen06)
 - [vinhht95](https://github.com/vinhht95)
-- [tranngoclam](https://github.com/tranngoclam)
