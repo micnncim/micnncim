@@ -11,8 +11,8 @@
 - [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) - A Raycast Extension for GoLinks
 - [micnncim/gh-project](https://github.com/micnncim/gh-project) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
 - [micnncim/spincue](https://github.com/micnncim/spincue) - CUE implementation of Spinnaker pipelines
-- [micnncim/slackctl](https://github.com/micnncim/slackctl) - Slack command line tool
 - [micnncim/gh-commands](https://github.com/micnncim/gh-commands) - Collection of gh custom subcommands
+- [micnncim/github-lab-public](https://github.com/micnncim/github-lab-public) - GitHub laboratory environment (public)
 
 #### 🌱 Recent Contributions
 
@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [m0rp43us](https://github.com/m0rp43us)
 - [ethanflower1903](https://github.com/ethanflower1903)
 - [ikasumi](https://github.com/ikasumi)
 - [chaosaffe](https://github.com/chaosaffe)
 - [Pranav016](https://github.com/Pranav016)
-- [ianchen06](https://github.com/ianchen06)
