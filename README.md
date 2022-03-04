@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [osamingo](https://github.com/osamingo)
 - [jerrytanjunjie888](https://github.com/jerrytanjunjie888)
 - [m0rp43us](https://github.com/m0rp43us)
 - [ethanflower1903](https://github.com/ethanflower1903)
 - [ikasumi](https://github.com/ikasumi)
-- [chaosaffe](https://github.com/chaosaffe)
