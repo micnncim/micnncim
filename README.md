@@ -20,7 +20,7 @@
 - [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (4 weeks ago) - Crossplane AWS Provider
 - [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) (3 months ago) - A Raycast Extension for GoLinks
 - [spinnaker/spin](https://github.com/spinnaker/spin) (3 months ago) - Spinnaker CLI
-- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (3 months ago) - kubectl plugin that deletes unused Kubernetes resources
+- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (4 months ago) - kubectl plugin that deletes unused Kubernetes resources
 
 #### 👪  Recent Followers
 
