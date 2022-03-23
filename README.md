@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [resslerruntime3](https://github.com/resslerruntime3)
 - [johannes-graeter](https://github.com/johannes-graeter)
 - [wsascha](https://github.com/wsascha)
 - [BEPb](https://github.com/BEPb)
 - [yyoshiki41](https://github.com/yyoshiki41)
-- [dalakatt](https://github.com/dalakatt)
