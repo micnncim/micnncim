@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [crossplane/provider-gcp](https://github.com/crossplane/provider-gcp) (1 month ago) - Crossplane GCP provider
+- [crossplane/provider-gcp](https://github.com/crossplane/provider-gcp) (2 months ago) - Crossplane GCP provider
 - [crossplane/provider-aws](https://github.com/crossplane/provider-aws) (2 months ago) - Crossplane AWS Provider
 - [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) (4 months ago) - A Raycast Extension for GoLinks
 - [spinnaker/spin](https://github.com/spinnaker/spin) (5 months ago) - Spinnaker CLI
