@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [AndriiMaliuta](https://github.com/AndriiMaliuta)
 - [bytecurl](https://github.com/bytecurl)
 - [HaSaNmoradpor](https://github.com/HaSaNmoradpor)
 - [resslerruntime3](https://github.com/resslerruntime3)
 - [johannes-graeter](https://github.com/johannes-graeter)
-- [wsascha](https://github.com/wsascha)
