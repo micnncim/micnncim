@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (3 days ago) - kubectl plugin that deletes unused Kubernetes resources
+- [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (4 days ago) - kubectl plugin that deletes unused Kubernetes resources
 - [crossplane-contrib/provider-gcp](https://github.com/crossplane-contrib/provider-gcp) (4 months ago) - Crossplane GCP provider
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) (4 months ago) - Crossplane AWS Provider
 - [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) (7 months ago) - A Raycast Extension for GoLinks
