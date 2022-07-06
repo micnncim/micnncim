@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [david-kariuki](https://github.com/david-kariuki)
 - [kot10n5tn](https://github.com/kot10n5tn)
 - [arkuznetsov](https://github.com/arkuznetsov)
 - [AndriiMaliuta](https://github.com/AndriiMaliuta)
 - [bytecurl](https://github.com/bytecurl)
-- [HaSaNmoradpor](https://github.com/HaSaNmoradpor)
