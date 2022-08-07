@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/git-commands](https://github.com/micnncim/git-commands) (today) - A collection of Git custom subcommands
-- [micnncim/gctx](https://github.com/micnncim/gctx) (2 days ago)
+- [micnncim/git-commands](https://github.com/micnncim/git-commands) (1 day ago) - A collection of Git custom subcommands
+- [micnncim/gctx](https://github.com/micnncim/gctx) (3 days ago)
 - [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (1 month ago) - kubectl plugin that deletes unused Kubernetes resources
 - [crossplane-contrib/provider-gcp](https://github.com/crossplane-contrib/provider-gcp) (5 months ago) - Crossplane GCP provider
 - [crossplane-contrib/provider-aws](https://github.com/crossplane-contrib/provider-aws) (5 months ago) - Crossplane AWS Provider
