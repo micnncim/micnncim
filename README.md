@@ -16,9 +16,9 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/gctx](https://github.com/micnncim/gctx) (1 day ago)
-- [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) (1 day ago) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform &gt;= v0.15 support and advanced formatting options
-- [micnncim/git-commands](https://github.com/micnncim/git-commands) (2 days ago) - A collection of Git custom subcommands
+- [micnncim/gctx](https://github.com/micnncim/gctx) (2 days ago)
+- [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) (2 days ago) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform &gt;= v0.15 support and advanced formatting options
+- [micnncim/git-commands](https://github.com/micnncim/git-commands) (3 days ago) - A collection of Git custom subcommands
 - [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (1 month ago) - kubectl plugin that deletes unused Kubernetes resources
 - [crossplane-contrib/provider-gcp](https://github.com/crossplane-contrib/provider-gcp) (5 months ago) - Crossplane GCP provider
 
