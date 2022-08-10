@@ -8,19 +8,19 @@
 
 #### 🍎 Recent Projects
 
+- [micnncim/gh-sync](https://github.com/micnncim/gh-sync)
 - [micnncim/gctx](https://github.com/micnncim/gctx)
 - [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) - A Raycast Extension for GoLinks
 - [micnncim/gh-project](https://github.com/micnncim/gh-project) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
 - [micnncim/spincue](https://github.com/micnncim/spincue) - CUE implementation of Spinnaker pipelines
-- [micnncim/gh-commands](https://github.com/micnncim/gh-commands) - Collection of gh custom subcommands
 
 #### 🌱 Recent Contributions
 
+- [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (today)
 - [micnncim/gctx](https://github.com/micnncim/gctx) (3 days ago)
 - [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) (3 days ago) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform &gt;= v0.15 support and advanced formatting options
 - [micnncim/git-commands](https://github.com/micnncim/git-commands) (4 days ago) - A collection of Git custom subcommands
 - [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (1 month ago) - kubectl plugin that deletes unused Kubernetes resources
-- [crossplane-contrib/provider-gcp](https://github.com/crossplane-contrib/provider-gcp) (5 months ago) - Crossplane GCP provider
 
 #### 👪  Recent Followers
 
