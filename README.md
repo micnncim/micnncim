@@ -16,10 +16,10 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (2 days ago)
-- [micnncim/gctx](https://github.com/micnncim/gctx) (5 days ago)
-- [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) (5 days ago) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform &gt;= v0.15 support and advanced formatting options
-- [micnncim/git-commands](https://github.com/micnncim/git-commands) (6 days ago) - A collection of Git custom subcommands
+- [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (3 days ago)
+- [micnncim/gctx](https://github.com/micnncim/gctx) (6 days ago)
+- [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) (6 days ago) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform &gt;= v0.15 support and advanced formatting options
+- [micnncim/git-commands](https://github.com/micnncim/git-commands) (1 week ago) - A collection of Git custom subcommands
 - [micnncim/kubectl-reap](https://github.com/micnncim/kubectl-reap) (2 months ago) - kubectl plugin that deletes unused Kubernetes resources
 
 #### 👪  Recent Followers
