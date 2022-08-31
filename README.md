@@ -8,19 +8,19 @@
 
 #### 🍎 Recent Projects
 
+- [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks)
 - [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue)
 - [micnncim/gh-sync](https://github.com/micnncim/gh-sync)
 - [micnncim/gctx](https://github.com/micnncim/gctx)
 - [micnncim/raycast-extension-golinks](https://github.com/micnncim/raycast-extension-golinks) - A Raycast Extension for GoLinks
-- [micnncim/gh-project](https://github.com/micnncim/gh-project) - GitHub CLI extension for listing projects and linking/unlinking projects to/from issues/PRs interactively.
 
 #### 🌱 Recent Contributions
 
+- [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks) (today)
 - [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue) (today)
 - [micnncim/gctx](https://github.com/micnncim/gctx) (2 days ago)
 - [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (2 weeks ago)
 - [micnncim/github-lab-public](https://github.com/micnncim/github-lab-public) (2 weeks ago) - GitHub laboratory environment (public)
-- [suzuki-shunsuke/tfcmt](https://github.com/suzuki-shunsuke/tfcmt) (3 weeks ago) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform &gt;= v0.15 support and advanced formatting options
 
 #### 👪  Recent Followers
 
