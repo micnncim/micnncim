@@ -16,10 +16,10 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/gh-commands](https://github.com/micnncim/gh-commands) (1 day ago) - Collection of gh custom subcommands
-- [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks) (3 days ago)
-- [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue) (4 days ago)
-- [micnncim/gctx](https://github.com/micnncim/gctx) (6 days ago)
+- [micnncim/gh-commands](https://github.com/micnncim/gh-commands) (2 days ago) - Collection of gh custom subcommands
+- [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks) (4 days ago)
+- [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue) (5 days ago)
+- [micnncim/gctx](https://github.com/micnncim/gctx) (1 week ago)
 - [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (2 weeks ago)
 
 #### 👪  Recent Followers
