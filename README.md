@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/gh-commands](https://github.com/micnncim/gh-commands) (4 days ago) - Collection of gh custom subcommands
-- [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks) (6 days ago)
+- [micnncim/gh-commands](https://github.com/micnncim/gh-commands) (5 days ago) - Collection of gh custom subcommands
+- [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks) (1 week ago)
 - [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue) (1 week ago)
 - [micnncim/gctx](https://github.com/micnncim/gctx) (1 week ago)
 - [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (3 weeks ago)
