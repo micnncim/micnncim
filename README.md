@@ -28,4 +28,4 @@
 - [Kwynto](https://github.com/Kwynto)
 - [dirambora](https://github.com/dirambora)
 - [TanmoySG](https://github.com/TanmoySG)
-- [david-kariuki](https://github.com/david-kariuki)
+- [kot10n5tn](https://github.com/kot10n5tn)
