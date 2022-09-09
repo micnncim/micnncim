@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [fatihusta](https://github.com/fatihusta)
+- [yclyldrm](https://github.com/yclyldrm)
+- [ibrahimsn98](https://github.com/ibrahimsn98)
 - [Jrgary1111](https://github.com/Jrgary1111)
 - [Kwynto](https://github.com/Kwynto)
-- [dirambora](https://github.com/dirambora)
-- [TanmoySG](https://github.com/TanmoySG)
-- [kot10n5tn](https://github.com/kot10n5tn)
