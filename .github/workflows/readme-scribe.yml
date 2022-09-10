@@ -30,3 +30,6 @@ jobs:
       with:
         commit_message: Update generated README
         branch: main
+        commit_user_name: GitHub Actions
+        commit_user_email: actions@github.com
+        commit_author: GitHub Actions <actions@github.com>
