@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [akiffeyzioglu](https://github.com/akiffeyzioglu)
 - [OnurCemER](https://github.com/OnurCemER)
 - [fatihusta](https://github.com/fatihusta)
 - [yclyldrm](https://github.com/yclyldrm)
 - [ibrahimsn98](https://github.com/ibrahimsn98)
-- [Jrgary1111](https://github.com/Jrgary1111)
