@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [rosiba](https://github.com/rosiba)
 - [ezgisariyildiz](https://github.com/ezgisariyildiz)
 - [akiffeyzioglu](https://github.com/akiffeyzioglu)
 - [OnurCemER](https://github.com/OnurCemER)
 - [fatihusta](https://github.com/fatihusta)
-- [yclyldrm](https://github.com/yclyldrm)
