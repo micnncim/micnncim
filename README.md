@@ -24,8 +24,8 @@
 
 #### 👪  Recent Followers
 
+- [juanpabloprado](https://github.com/juanpabloprado)
 - [hosein26597](https://github.com/hosein26597)
 - [tolgademir](https://github.com/tolgademir)
 - [enesorhaan](https://github.com/enesorhaan)
 - [rosiba](https://github.com/rosiba)
-- [ezgisariyildiz](https://github.com/ezgisariyildiz)
