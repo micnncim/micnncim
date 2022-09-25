@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/go-set](https://github.com/micnncim/go-set) (1 week ago) - Go package for sets implemented with generics
+- [micnncim/go-set](https://github.com/micnncim/go-set) (2 weeks ago) - Go package for sets implemented with generics
 - [micnncim/gh-commands](https://github.com/micnncim/gh-commands) (3 weeks ago) - Collection of gh custom subcommands
 - [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks) (3 weeks ago)
 - [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue) (3 weeks ago)
