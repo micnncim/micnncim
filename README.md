@@ -20,7 +20,7 @@
 - [micnncim/gh-commands](https://github.com/micnncim/gh-commands) (3 weeks ago) - Collection of gh custom subcommands
 - [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks) (3 weeks ago)
 - [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue) (3 weeks ago)
-- [micnncim/gctx](https://github.com/micnncim/gctx) (3 weeks ago)
+- [micnncim/gctx](https://github.com/micnncim/gctx) (4 weeks ago)
 
 #### 👪  Recent Followers
 
