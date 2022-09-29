@@ -18,7 +18,7 @@
 
 - [micnncim/go-set](https://github.com/micnncim/go-set) (2 weeks ago) - Go package for sets implemented with generics
 - [micnncim/gh-commands](https://github.com/micnncim/gh-commands) (3 weeks ago) - Collection of gh custom subcommands
-- [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks) (3 weeks ago)
+- [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks) (4 weeks ago)
 - [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue) (4 weeks ago)
 - [micnncim/gctx](https://github.com/micnncim/gctx) (1 month ago)
 
