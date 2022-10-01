@@ -15,8 +15,3 @@
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}}){{if ne (len .Repo.Description) 0}} - {{.Repo.Description}}{{end}}
 {{- end}}
-
-#### 👪  Recent Followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
