@@ -11,13 +11,13 @@
 - [micnncim/go-set](https://github.com/micnncim/go-set) - Go package for sets implemented with generics
 - [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks)
 - [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config)
 - [micnncim/gh-sync](https://github.com/micnncim/gh-sync)
-- [micnncim/gctx](https://github.com/micnncim/gctx)
 
 #### 🌱 Recent Contributions
 
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (5 days ago)
 - [actions-ecosystem/.github](https://github.com/actions-ecosystem/.github) (1 week ago)
 - [crossplane-contrib/provider-civo](https://github.com/crossplane-contrib/provider-civo) (2 weeks ago)
 - [micnncim/go-set](https://github.com/micnncim/go-set) (4 weeks ago) - Go package for sets implemented with generics
 - [micnncim/gh-commands](https://github.com/micnncim/gh-commands) (1 month ago) - Collection of gh custom subcommands
-- [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks) (1 month ago)
