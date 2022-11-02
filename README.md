@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 week ago)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (2 weeks ago)
 - [actions-ecosystem/.github](https://github.com/actions-ecosystem/.github) (1 month ago)
 - [crossplane-contrib/provider-civo](https://github.com/crossplane-contrib/provider-civo) (1 month ago)
 - [micnncim/go-set](https://github.com/micnncim/go-set) (1 month ago) - Go package for sets implemented with generics
-- [micnncim/gh-commands](https://github.com/micnncim/gh-commands) (1 month ago) - Collection of gh custom subcommands
+- [micnncim/gh-commands](https://github.com/micnncim/gh-commands) (2 months ago) - Collection of gh custom subcommands
