@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (today)
 - [micnncim/nix-darwin-example](https://github.com/micnncim/nix-darwin-example) (today) - nix-darwin-example
 - [micnncim/nix-shell-example](https://github.com/micnncim/nix-shell-example) (today) - nix-shell-example
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) (5 days ago) - Seamless authentication for every tool in your terminal.
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (5 days ago)
 - [actions-ecosystem/.github](https://github.com/actions-ecosystem/.github) (2 months ago)
