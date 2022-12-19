@@ -8,16 +8,16 @@
 
 #### 🍎 Recent Projects
 
+- [micnncim/nix-darwin-example](https://github.com/micnncim/nix-darwin-example) - nix-darwin-example
 - [micnncim/go-set](https://github.com/micnncim/go-set) - Go package for sets implemented with generics
 - [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks)
 - [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue)
 - [micnncim/nix-config](https://github.com/micnncim/nix-config)
-- [micnncim/gh-sync](https://github.com/micnncim/gh-sync)
 
 #### 🌱 Recent Contributions
 
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (5 days ago)
+- [micnncim/nix-darwin-example](https://github.com/micnncim/nix-darwin-example) (today) - nix-darwin-example
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) (5 days ago) - Seamless authentication for every tool in your terminal.
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (5 days ago)
 - [actions-ecosystem/.github](https://github.com/actions-ecosystem/.github) (2 months ago)
 - [crossplane-contrib/provider-civo](https://github.com/crossplane-contrib/provider-civo) (2 months ago)
-- [micnncim/go-set](https://github.com/micnncim/go-set) (3 months ago) - Go package for sets implemented with generics
