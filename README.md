@@ -19,5 +19,5 @@
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) (1 week ago) - Cloud Native Control Planes
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (3 weeks ago)
 - [micnncim/nix-shell-example](https://github.com/micnncim/nix-shell-example) (3 weeks ago) - nix-shell-example
-- [micnncim/nix-darwin-example](https://github.com/micnncim/nix-darwin-example) (4 weeks ago) - nix-darwin-example
+- [micnncim/nix-darwin-example](https://github.com/micnncim/nix-darwin-example) (1 month ago) - nix-darwin-example
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) (1 month ago) - Seamless authentication for every tool in your terminal.
