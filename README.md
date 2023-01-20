@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (today)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 day ago)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) (1 week ago) - Cloud Native Control Planes
 - [micnncim/nix-shell-example](https://github.com/micnncim/nix-shell-example) (4 weeks ago) - nix-shell-example
 - [micnncim/nix-darwin-example](https://github.com/micnncim/nix-darwin-example) (1 month ago) - nix-darwin-example
