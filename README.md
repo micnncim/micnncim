@@ -8,16 +8,16 @@
 
 #### 🍎 Recent Projects
 
+- [micnncim/test-gha-reusable-workflow](https://github.com/micnncim/test-gha-reusable-workflow)
+- [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action)
 - [micnncim/nix-shell-example](https://github.com/micnncim/nix-shell-example) - nix-shell-example
 - [micnncim/nix-darwin-example](https://github.com/micnncim/nix-darwin-example) - nix-darwin-example
 - [micnncim/go-set](https://github.com/micnncim/go-set) - Go package for sets implemented with generics
-- [micnncim/pre-commit-hooks](https://github.com/micnncim/pre-commit-hooks)
-- [micnncim/pre-commit-hooks-cue](https://github.com/micnncim/pre-commit-hooks-cue)
 
 #### 🌱 Recent Contributions
 
+- [micnncim/test-gha-reusable-workflow](https://github.com/micnncim/test-gha-reusable-workflow) (today)
+- [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action) (today)
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (6 days ago)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) (3 weeks ago) - Cloud Native Control Planes
 - [micnncim/nix-shell-example](https://github.com/micnncim/nix-shell-example) (1 month ago) - nix-shell-example
-- [micnncim/nix-darwin-example](https://github.com/micnncim/nix-darwin-example) (1 month ago) - nix-darwin-example
-- [1Password/shell-plugins](https://github.com/1Password/shell-plugins) (1 month ago) - Seamless authentication for every tool in your terminal.
