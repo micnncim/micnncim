@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (today)
 - [micnncim/test-gha-reusable-workflow](https://github.com/micnncim/test-gha-reusable-workflow) (1 week ago)
 - [github/docs](https://github.com/github/docs) (1 week ago) - The open-source repo for docs.github.com
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 week ago)
 - [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action) (1 week ago)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) (1 month ago) - Cloud Native Control Planes
