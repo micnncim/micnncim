@@ -20,4 +20,4 @@
 - [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action) (1 month ago)
 - [micnncim/test-gha-reusable-workflow](https://github.com/micnncim/test-gha-reusable-workflow) (1 month ago)
 - [github/docs](https://github.com/github/docs) (1 month ago) - The open-source repo for docs.github.com
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) (1 month ago) - Cloud Native Control Planes
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) (2 months ago) - Cloud Native Control Planes
