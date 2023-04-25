@@ -8,16 +8,16 @@
 
 #### 🍎 Recent Projects
 
+- [micnncim/raycast-extension-open-link-in-notion](https://github.com/micnncim/raycast-extension-open-link-in-notion) - raycast-extension-open-link-in-notion
 - [micnncim/test-gha-reusable-workflow](https://github.com/micnncim/test-gha-reusable-workflow)
 - [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action)
 - [micnncim/nix-shell-example](https://github.com/micnncim/nix-shell-example) - nix-shell-example
 - [micnncim/nix-darwin-example](https://github.com/micnncim/nix-darwin-example) - nix-darwin-example
-- [micnncim/go-set](https://github.com/micnncim/go-set) - Go package for sets implemented with generics
 
 #### 🌱 Recent Contributions
 
+- [micnncim/raycast-extension-open-link-in-notion](https://github.com/micnncim/raycast-extension-open-link-in-notion) (today) - raycast-extension-open-link-in-notion
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 week ago)
-- [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action) (2 months ago)
 - [micnncim/test-gha-reusable-workflow](https://github.com/micnncim/test-gha-reusable-workflow) (2 months ago)
 - [github/docs](https://github.com/github/docs) (2 months ago) - The open-source repo for docs.github.com
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) (3 months ago) - Cloud Native Control Planes
+- [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action) (2 months ago)
