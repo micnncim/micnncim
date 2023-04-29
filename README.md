@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/raycast-extension-open-link-in-notion](https://github.com/micnncim/raycast-extension-open-link-in-notion) (3 days ago) - raycast-extension-open-link-in-notion
+- [micnncim/raycast-extension-open-link-in-notion](https://github.com/micnncim/raycast-extension-open-link-in-notion) (4 days ago) - raycast-extension-open-link-in-notion
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 week ago)
 - [micnncim/test-gha-reusable-workflow](https://github.com/micnncim/test-gha-reusable-workflow) (2 months ago)
 - [github/docs](https://github.com/github/docs) (2 months ago) - The open-source repo for docs.github.com
