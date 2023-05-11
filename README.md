@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
+- [chmln/sd](https://github.com/chmln/sd) (today) - Intuitive find &amp; replace CLI (sed alternative)
 - [micnncim/raycast-extension-open-link-in-notion](https://github.com/micnncim/raycast-extension-open-link-in-notion) (2 weeks ago) - raycast-extension-open-link-in-notion
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (3 weeks ago)
-- [micnncim/test-gha-reusable-workflow](https://github.com/micnncim/test-gha-reusable-workflow) (3 months ago)
 - [github/docs](https://github.com/github/docs) (3 months ago) - The open-source repo for docs.github.com
 - [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action) (3 months ago)
