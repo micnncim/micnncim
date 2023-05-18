@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 day ago)
-- [chmln/sd](https://github.com/chmln/sd) (6 days ago) - Intuitive find &amp; replace CLI (sed alternative)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (2 days ago)
+- [chmln/sd](https://github.com/chmln/sd) (1 week ago) - Intuitive find &amp; replace CLI (sed alternative)
 - [micnncim/raycast-extension-open-link-in-notion](https://github.com/micnncim/raycast-extension-open-link-in-notion) (3 weeks ago) - raycast-extension-open-link-in-notion
 - [github/docs](https://github.com/github/docs) (3 months ago) - The open-source repo for docs.github.com
 - [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action) (3 months ago)
