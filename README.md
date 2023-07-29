@@ -19,5 +19,5 @@
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 week ago)
 - [chmln/sd](https://github.com/chmln/sd) (2 months ago) - Intuitive find &amp; replace CLI (sed alternative)
 - [micnncim/raycast-extension-open-link-in-notion](https://github.com/micnncim/raycast-extension-open-link-in-notion) (3 months ago) - raycast-extension-open-link-in-notion
-- [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action) (5 months ago)
-- [github/docs](https://github.com/github/docs) (5 months ago) - The open-source repo for docs.github.com
+- [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action) (6 months ago)
+- [github/docs](https://github.com/github/docs) (6 months ago) - The open-source repo for docs.github.com
