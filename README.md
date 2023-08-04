@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/gctx](https://github.com/micnncim/gctx) (today)
-- [micnncim/nur](https://github.com/micnncim/nur) (today)
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (today)
+- [micnncim/nur](https://github.com/micnncim/nur) (today)
+- [micnncim/gctx](https://github.com/micnncim/gctx) (today)
 - [chmln/sd](https://github.com/chmln/sd) (2 months ago) - Intuitive find &amp; replace CLI (sed alternative)
 - [micnncim/raycast-extension-open-link-in-notion](https://github.com/micnncim/raycast-extension-open-link-in-notion) (3 months ago) - raycast-extension-open-link-in-notion
