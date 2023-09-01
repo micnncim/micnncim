@@ -17,7 +17,7 @@
 #### 🌱 Recent Contributions
 
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 week ago)
-- [micnncim/kubectl-reveal](https://github.com/micnncim/kubectl-reveal) (1 week ago)
+- [micnncim/kubectl-reveal](https://github.com/micnncim/kubectl-reveal) (2 weeks ago)
 - [micnncim/nur](https://github.com/micnncim/nur) (3 weeks ago)
-- [micnncim/gctx](https://github.com/micnncim/gctx) (3 weeks ago)
+- [micnncim/gctx](https://github.com/micnncim/gctx) (4 weeks ago)
 - [chmln/sd](https://github.com/chmln/sd) (3 months ago) - Intuitive find &amp; replace CLI (sed alternative)
