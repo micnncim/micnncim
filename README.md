@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 week ago)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (today)
 - [micnncim/kubectl-reveal](https://github.com/micnncim/kubectl-reveal) (2 weeks ago)
 - [micnncim/nur](https://github.com/micnncim/nur) (3 weeks ago)
 - [micnncim/gctx](https://github.com/micnncim/gctx) (4 weeks ago)
