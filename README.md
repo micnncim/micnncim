@@ -8,16 +8,16 @@
 
 #### 🍎 Recent Projects
 
+- [micnncim/flake-templates](https://github.com/micnncim/flake-templates)
 - [micnncim/nur](https://github.com/micnncim/nur)
 - [micnncim/raycast-extension-open-link-in-notion](https://github.com/micnncim/raycast-extension-open-link-in-notion) - raycast-extension-open-link-in-notion
 - [micnncim/test-gha-reusable-workflow](https://github.com/micnncim/test-gha-reusable-workflow)
 - [micnncim/test-gha-composite-action](https://github.com/micnncim/test-gha-composite-action)
-- [micnncim/nix-shell-example](https://github.com/micnncim/nix-shell-example) - nix-shell-example
 
 #### 🌱 Recent Contributions
 
+- [micnncim/flake-templates](https://github.com/micnncim/flake-templates) (today)
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (today)
 - [micnncim/kubectl-reveal](https://github.com/micnncim/kubectl-reveal) (2 weeks ago)
 - [micnncim/nur](https://github.com/micnncim/nur) (3 weeks ago)
 - [micnncim/gctx](https://github.com/micnncim/gctx) (4 weeks ago)
-- [chmln/sd](https://github.com/chmln/sd) (3 months ago) - Intuitive find &amp; replace CLI (sed alternative)
