@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/flake-templates](https://github.com/micnncim/flake-templates) (today)
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (today)
+- [micnncim/flake-templates](https://github.com/micnncim/flake-templates) (1 day ago)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 day ago)
 - [micnncim/kubectl-reveal](https://github.com/micnncim/kubectl-reveal) (2 weeks ago)
-- [micnncim/nur](https://github.com/micnncim/nur) (3 weeks ago)
-- [micnncim/gctx](https://github.com/micnncim/gctx) (4 weeks ago)
+- [micnncim/nur](https://github.com/micnncim/nur) (4 weeks ago)
+- [micnncim/gctx](https://github.com/micnncim/gctx) (1 month ago)
