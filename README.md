@@ -8,7 +8,7 @@
 
 #### 🍎 Recent Projects
 
-- [micnncim/flake-templates](https://github.com/micnncim/flake-templates)
+- [micnncim/templates](https://github.com/micnncim/templates)
 - [micnncim/nur](https://github.com/micnncim/nur)
 - [micnncim/raycast-extension-open-link-in-notion](https://github.com/micnncim/raycast-extension-open-link-in-notion) - raycast-extension-open-link-in-notion
 - [micnncim/test-gha-reusable-workflow](https://github.com/micnncim/test-gha-reusable-workflow)
@@ -17,7 +17,7 @@
 #### 🌱 Recent Contributions
 
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 day ago)
-- [micnncim/flake-templates](https://github.com/micnncim/flake-templates) (1 week ago)
+- [micnncim/templates](https://github.com/micnncim/templates) (1 week ago)
 - [micnncim/kubectl-reveal](https://github.com/micnncim/kubectl-reveal) (1 month ago)
 - [micnncim/nur](https://github.com/micnncim/nur) (1 month ago)
 - [micnncim/gctx](https://github.com/micnncim/gctx) (1 month ago)
