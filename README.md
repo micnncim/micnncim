@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 week ago)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (today)
 - [micnncim/nur](https://github.com/micnncim/nur) (1 week ago)
 - [micnncim/renovate-test](https://github.com/micnncim/renovate-test) (1 week ago)
 - [micnncim/templates](https://github.com/micnncim/templates) (3 weeks ago)
