@@ -17,7 +17,7 @@
 #### 🌱 Recent Contributions
 
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (today)
-- [micnncim/renovate-test](https://github.com/micnncim/renovate-test) (2 days ago)
-- [micnncim/appstoreconnect-go](https://github.com/micnncim/appstoreconnect-go) (2 days ago)
+- [micnncim/renovate-test](https://github.com/micnncim/renovate-test) (3 days ago)
+- [micnncim/appstoreconnect-go](https://github.com/micnncim/appstoreconnect-go) (3 days ago)
 - [micnncim/nur](https://github.com/micnncim/nur) (1 week ago)
 - [micnncim/templates](https://github.com/micnncim/templates) (4 weeks ago)
