@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
+- [micnncim/nur](https://github.com/micnncim/nur) (today)
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (2 days ago)
 - [micnncim/appstoreconnect-go](https://github.com/micnncim/appstoreconnect-go) (5 days ago)
-- [micnncim/nur](https://github.com/micnncim/nur) (1 week ago)
 - [micnncim/templates](https://github.com/micnncim/templates) (1 month ago)
 - [micnncim/kubectl-reveal](https://github.com/micnncim/kubectl-reveal) (1 month ago)
