@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 day ago)
-- [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (1 day ago)
-- [micnncim/nur](https://github.com/micnncim/nur) (4 days ago)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (2 days ago)
+- [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (2 days ago)
+- [micnncim/nur](https://github.com/micnncim/nur) (5 days ago)
 - [micnncim/appstoreconnect-go](https://github.com/micnncim/appstoreconnect-go) (1 week ago)
 - [micnncim/templates](https://github.com/micnncim/templates) (1 month ago)
