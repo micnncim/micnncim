@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (5 days ago)
-- [micnncim/github-actions-lab](https://github.com/micnncim/github-actions-lab) (6 days ago) - @micnncim&#39;s personal sandbox environment for GitHub Actions
-- [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (1 week ago)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (6 days ago)
+- [micnncim/github-actions-lab](https://github.com/micnncim/github-actions-lab) (1 week ago) - @micnncim&#39;s personal sandbox environment for GitHub Actions
+- [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (2 weeks ago)
 - [micnncim/nur](https://github.com/micnncim/nur) (2 weeks ago)
 - [micnncim/appstoreconnect-go](https://github.com/micnncim/appstoreconnect-go) (3 weeks ago)
