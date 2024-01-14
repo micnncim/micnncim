@@ -18,6 +18,6 @@
 
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 day ago)
 - [micnncim/github-actions-lab](https://github.com/micnncim/github-actions-lab) (1 month ago) - @micnncim&#39;s personal sandbox environment for GitHub Actions
-- [micnncim/gctx](https://github.com/micnncim/gctx) (2 months ago)
 - [micnncim/nur](https://github.com/micnncim/nur) (2 months ago)
+- [micnncim/gctx](https://github.com/micnncim/gctx) (2 months ago)
 - [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (3 months ago)
