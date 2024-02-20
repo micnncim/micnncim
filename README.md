@@ -16,7 +16,7 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (6 days ago)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 week ago)
 - [micnncim/github-actions-lab](https://github.com/micnncim/github-actions-lab) (3 months ago) - @micnncim&#39;s personal sandbox environment for GitHub Actions
 - [micnncim/nur](https://github.com/micnncim/nur) (3 months ago)
 - [micnncim/gctx](https://github.com/micnncim/gctx) (3 months ago)
