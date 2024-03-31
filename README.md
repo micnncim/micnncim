@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
+- [micnncim/github-lab-public](https://github.com/micnncim/github-lab-public) (today) - GitHub laboratory environment (public)
 - [micnncim/nix-config](https://github.com/micnncim/nix-config) (1 day ago)
 - [micnncim/nur](https://github.com/micnncim/nur) (4 months ago)
 - [micnncim/gctx](https://github.com/micnncim/gctx) (4 months ago)
 - [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (5 months ago)
-- [micnncim/appstoreconnect-go](https://github.com/micnncim/appstoreconnect-go) (5 months ago)
