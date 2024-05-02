@@ -16,8 +16,8 @@
 
 #### 🌱 Recent Contributions
 
-- [micnncim/nix-config](https://github.com/micnncim/nix-config) (4 days ago)
-- [micnncim/nur](https://github.com/micnncim/nur) (6 days ago)
+- [micnncim/nix-config](https://github.com/micnncim/nix-config) (5 days ago)
+- [micnncim/nur](https://github.com/micnncim/nur) (1 week ago)
 - [micnncim/github-lab-public](https://github.com/micnncim/github-lab-public) (1 month ago) - GitHub laboratory environment (public)
 - [micnncim/gctx](https://github.com/micnncim/gctx) (5 months ago)
 - [micnncim/gh-sync](https://github.com/micnncim/gh-sync) (6 months ago)
